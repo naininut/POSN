@@ -5,5 +5,6 @@ int main(){
     int w,h;
     scanf("%d %d",&w,&h);
     printf("%d\n%d",w*h,2*(w+h));
+    // hello
     return 0;
 }
